@@ -1,3 +1,4 @@
+
 # SOLAR POWER MONITERING SYSTEM
 To create a IoT based Solar monitoring system
 
@@ -10,6 +11,7 @@ To create a IoT based Solar monitoring system
 **Remote Access**: Enable remote monitoring and control of solar energy systems, allowing operators to manage and optimize performance from anywhere.    
 •	Alerts and Notifications: Provide automated alerts and notifications for system issues or deviations from expected performance, facilitating timely response.
 •	User Interface: Provide a user-friendly interface for system operators and end-users to monitor and understand the performance of the solar energy system.
+
 
 **FEATURES:-**
 
@@ -38,12 +40,14 @@ To create a IoT based Solar monitoring system
 •	Relays have different contact configurations, including normally open (NO), normally closed (NC), and changeover (CO) or double-throw contacts. These configurations determine how the relay behaves in its normal state and when activated.
 
 
-
-![MIND](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/assets/109717277/10bf1410-8af5-408a-a2bf-33835ed29b8c)
-
-
+MIND MAP :-
+![MIDNES](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/assets/109717277/ae7bafc3-33ca-47f0-8d52-96f71a2920fa)
 
 
+
+FLOW CHART :-
+
+[doc.docx](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/files/13379133/doc.docx)
 
 
 
