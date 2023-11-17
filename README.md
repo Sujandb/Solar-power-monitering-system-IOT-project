@@ -41,13 +41,15 @@ To create a IoT based Solar monitoring system
 
 
 MIND MAP :-
-![MIDNES](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/assets/109717277/ae7bafc3-33ca-47f0-8d52-96f71a2920fa)
+![mindmap](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/assets/109717277/942e4bc4-4ecb-4136-b664-2e084569a203)
 
 
 
 FLOW CHART :-
 
-[doc.docx](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/files/13379133/doc.docx)
+![WhatsApp Image 2023-11-17 at 11 00 43 AM](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/assets/109717277/7e98e8aa-5fdb-486d-a4da-a6469bb870eb)
+
+
 
 
 
